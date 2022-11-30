@@ -1,7 +1,6 @@
 Laporan Progress Project Akhir Praktikum Metode Komputasi
 "
 Kelompok 7 :
-Anggota : 
 1. Satriya Putra Bagaskara        (21/477852/PA/20710)
 2. Mohammad Affan Pramana         (21/477406/PA/20658)
 3. Gilang Kurnia Pandhudewanata   (21/481528/PA/20968)
