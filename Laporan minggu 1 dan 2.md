@@ -1,12 +1,13 @@
 Laporan Progress Project Akhir Praktikum Metode Komputasi
 "
 Kelompok 7 :
-Anggota : 1. Satriya Putra Bagaskara        (21/477852/PA/20710)
-          2. Mohammad Affan Pramana         (21/477406/PA/20658)
-          3. Gilang Kurnia Pandhudewanata   (21/481528/PA/20968)
-          4. Dimas Dhanurdoro Danisworo     (21/480216/PA/20850)
-          5. Shofi Mictahul Jannah          (21/482010/PA/21008)
-          6. Eka Akbar Permatasari          (21/475313/PA/20567)
+Anggota : 
+1. Satriya Putra Bagaskara        (21/477852/PA/20710)
+2. Mohammad Affan Pramana         (21/477406/PA/20658)
+3. Gilang Kurnia Pandhudewanata   (21/481528/PA/20968)
+4. Dimas Dhanurdoro Danisworo     (21/480216/PA/20850)
+5. Shofi Mictahul Jannah          (21/482010/PA/21008)
+6. Eka Akbar Permatasari          (21/475313/PA/20567)
 ----------------------------------------------------------------------------------------------------------------------------------------
 Progress Minggu ke-1
 
