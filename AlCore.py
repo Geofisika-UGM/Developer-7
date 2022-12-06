@@ -57,7 +57,8 @@ def chose(jns,jml):
             r=0
             for i in resfix:
                 r+=1/i
-            rfix=r**(-1)
+            rf=r**(-1)
+            rfix=round(rf,2)
             pr(rfix)
         def pr(txt):
             root=Tk()
